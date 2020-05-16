@@ -1,4 +1,4 @@
 // Your code here
 function createEmployeeRecord() {
-  let testEmployee = createEmployeeRecord([]);
+  let testEmployee = createEmployeeRecord(firstName, familyName, title, payPerHour);
 }
