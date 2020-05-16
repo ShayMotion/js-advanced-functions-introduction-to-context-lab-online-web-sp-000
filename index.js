@@ -15,7 +15,6 @@ function createEmployeeRecord([firstName, familyName, title, payRate]){
     }
 }
 
-// date format "YYYY-MM-DD HHMM"
 function createTimeInEvent(record, date){
     let timeInEvent = {
         type: "TimeIn",
